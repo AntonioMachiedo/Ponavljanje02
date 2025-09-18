@@ -12,6 +12,6 @@ namespace Ponavljanje02
         _predmet = Console.ReadLine();
         Console.Write("Unesi  ime i prezime profesora koji predaje predmet: ");
         _profesor = Console.ReadLine();
-        Console.Write("")
+        Console.Write("Napiši ocjene od usmneog")
     }
 }
